@@ -1,0 +1,31 @@
+<RCC>
+  <qresource prefix="Icons">
+    <file>logout-svgrepo-com.svg</file>
+    <file>find-svgrepo-com.svg</file>
+    <file>settings-svgrepo-com (1).svg</file>
+    <file>settings-svgrepo-com.svg</file>
+    <file>fight-svgrepo-com.svg</file>
+    <file>prize-badge-with-star-and-ribbon-svgrepo-com.svg</file>
+    <file>chart-svgrepo-com.svg</file>
+    <file>increase-svgrepo-com.svg</file>
+    <file>home-1-svgrepo-com.svg</file>
+    <file>home-angle-svgrepo-com.svg</file>
+    <file>goal-svgrepo-com.svg</file>
+    <file>golf-svgrepo-com.svg</file>
+    <file>user-circle-svgrepo-com (1).svg</file>
+    <file>user-circle-svgrepo-com.svg</file>
+    <file>Icons/home-svgrepo-com (2).svg</file>
+  </qresource>
+  <qresource prefix="Images">
+    <file>hearthands2round.png</file>
+    <file>hands.jpg</file>
+    <file>hearthands.jpg</file>
+    <file>hearthands2.jpg</file>
+    <file>Hand illustration, Emoji OK Emoticon Sticker Gesture, hand emoji transparent background PNG clipart.jpeg</file>
+    <file>download.jpeg</file>
+    <file>Download Hello Hand Sign Language Concept for free.jpeg</file>
+    <file>Download Hello Hand Sign Language Concept for free.jpeg</file>
+    <file>BlurredASL.png</file>
+    <file>Immagine carina ASL.jpg</file>
+  </qresource>
+</RCC>
