@@ -11,7 +11,7 @@ Electronic Technologies and Biosensor Laboratories
 ### Setup
 * In the command prompt execute:
     ```console
-    git clone https://github.com/ltebs-polimi/AY2223_II_Project-4.git
+    git clone https://github.com/DianaNigrisoli/Handy_SensorizedGlove.git
     
 ### Development 
 You can find all the scripts and designs in the following folders: 
