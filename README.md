@@ -1,5 +1,5 @@
 # Handy_SensorizedGlove
-
+A wireless sensorized glove for ASL fingerspelling gesture recognition. 
 ### Course
 Electronic Technologies and Biosensor Laboratories
 
